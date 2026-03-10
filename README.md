@@ -2,7 +2,7 @@
 
 ## Hazırlayan: Murat ASLAN
 
-
+<br><br>
 
 ### **GENEL PROJE TANITIMI**
 
@@ -11,7 +11,7 @@
     bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
     ayrıntı sayfası bulunmaktadır.
 
-
+<br><br>
 
 ### **UYGULAMA HAKKINDA YAZILIMSAL VE DONANIMSAL ÖZELLİKLER**
 
@@ -25,7 +25,7 @@ Provider   -   ^6.1.5+1 |<br>
 Kullanılan cihaz özellikleri<br>
 1080x2400 pixel, android 16, api 36, x86_64
 
-
+<br><br>
 
 ### **UYGULAMA ÇALIŞMA MANTIĞI**
 
