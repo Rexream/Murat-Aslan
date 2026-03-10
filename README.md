@@ -2,6 +2,8 @@
 
 ## Hazırlayan: Murat ASLAN
 
+### GENEL PROJE TANITIMI
+
     Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
     ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
     bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
