@@ -9,13 +9,13 @@
 
 ### Uygulama hakkında yazılımsal ve donanımsal özellikler
 
-| Yazılım | Sürüm |<br>
-| FLUTTER | 3.41.3 |<br>
-| DART | 3.11.1 |<br>
+|   YAZILIM     | SÜRÜM |<br>
+|   Flutter     | 3.41.3 |<br>
+|   Dart        | 3.11.1 |<br>
 <br>
-| Paketler | Sürüm |<br>
-| HTTP | ^1.6.0 |<br>
-|PROVIDER | ^6.1.5+1 |<br>
+|   PAKETLER    | SÜRÜM |<br>
+|   Http        | ^1.6.0 |<br>
+|   Provider    | ^6.1.5+1 |<br>
     
     Kullanılan cihaz özellikleri: 1080x2400 pixel, android 16, api 36, x86_64
 
