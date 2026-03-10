@@ -29,10 +29,12 @@ Kullanılan cihaz özellikleri<br>
 
 ### **UYGULAMA ÇALIŞMA MANTIĞI**
 
-    Uygulama çalışması sırasında bizi ilk olarak bir appbar bir arama kutusu ve
-    ürünlerin bulunduğu bir gridview yapısı karşılamaktadır. Arama kutusu ile
-    ürünlerde arama işlemi gerçekleştirebilir ve anlık olarak sayfadaki gridview
-    yapısında sonucu görebiliriz. Gridview yapısındaki herhangi bir ürünün kutusuna
+    Uygulama çalışması sırasında başlangıç sayfası olarak bizi bir appbar bir
+    arama kutusu ve ürünlerin bulunduğu bir gridview yapısına sahip bir sayfa 
+    karşılamaktadır. Bu sayfada gridview içerisinde başlangıçta varsayılan formatta
+    ürünler gösterilmekte olup istenilirse sayfada bulunan arama kutusu ile ürünlerde
+    arama işlemi gerçekleştirebilir ve anlık olarak sayfadaki gridview yapısında
+    sonucu görebiliriz. Gridview yapısındaki herhangi bir ürünün kutusuna
     tıklayarak ürünlerimizin ayrıntı sayfasına gidebilir veya kutu içerisindeki "+"
     iconu ile ürünlerimiz sepete ekleyebiliriz.
         
