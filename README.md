@@ -2,12 +2,16 @@
 
 ## Hazırlayan: Murat ASLAN
 
+
+
 ### **GENEL PROJE TANITIMI**
 
     Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
     ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
     bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
     ayrıntı sayfası bulunmaktadır.
+
+
 
 ### **UYGULAMA HAKKINDA YAZILIMSAL VE DONANIMSAL ÖZELLİKLER**
 
@@ -20,6 +24,8 @@ Provider   -   ^6.1.5+1 |<br>
     
 Kullanılan cihaz özellikleri<br>
 1080x2400 pixel, android 16, api 36, x86_64
+
+
 
 ### **UYGULAMA ÇALIŞMA MANTIĞI**
 
@@ -43,3 +49,17 @@ Kullanılan cihaz özellikleri<br>
     siparişini verip sepeti boşaltırız.
 
 ### **UYGULAMA İLE İLGİLİ EKRAN GÖRÜNTÜLERİ**
+
+<p align="center">
+  <img src="assets/Screenshot_HomePage1.png" width="250" />
+  <img src="assets/Screenshot_HomePage2.png" width="250" />
+  <img src="assets/Screenshot_HomePage3.png" width="250" />
+  <br>
+  <img src="assets/Screenshot_ProductDetail1.png" width="250" />
+  <br>
+  <img src="assets/Screenshot_Snackbar1.png" width="250" />
+  <img src="assets/Screenshot_Snackbar2.png" width="250" />
+  <br>
+  <img src="assets/Screenshot_ShoppingCart1.png" width="250" />
+  <img src="assets/Screenshot_ShoppingCart2.png" width="250" />
+</p>
