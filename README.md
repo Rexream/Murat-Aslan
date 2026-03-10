@@ -2,9 +2,9 @@
 
 ## Hazırlayan: Murat ASLAN
 
-    Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde\
-    ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak\
-    bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet\
+    Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
+    ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
+    bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
     ayrıntı sayfası bulunmaktadır.
 
 ### Uygulama hakkında yazılımsal ve donanımsal özellikler
