@@ -48,6 +48,8 @@ Kullanılan cihaz özellikleri<br>
     sayfanın en aşağısında bulunan "sipariş ver" butonu ile sepetteki ürünlerin
     siparişini verip sepeti boşaltırız.
 
+<br><br>
+
 ### **UYGULAMA İLE İLGİLİ EKRAN GÖRÜNTÜLERİ**
 
 <p align="center">
