@@ -1,16 +1,18 @@
 # SOFTWARE PERSONA 12. DÖNEM YAZILIM STAJI FLUTTER PROJESİ
 
-<h1>Hazırlayan: Murat ASLAN</h1>
+## Hazırlayan: Murat ASLAN
 
     Bu projede basit bir alışveriş uygulaması hedeflenmiştir. Proje içerisinde ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet ayrıntı sayfası bulunmaktadır.
 
 <h3>Uygulama hakkında yazılımsal ve donanımsal özellikler</h3>
 
-    FLUTTER: 3.41.3
-    DART: 3.11.1
+| Yazılım | Sürüm |
+| FLUTTER | 3.41.3 |
+| DART | 3.11.1 |
 
-    HTTP: ^1.6.0
-    PROVIDER: ^6.1.5+1
+| Paketler | Sürüm |
+| HTTP | ^1.6.0 |
+|PROVIDER | ^6.1.5+1 |
     
     Kullanılan cihaz özellikleri: 1080x2400 pixel, android 16, api 36, x86_64
 
