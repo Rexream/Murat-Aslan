@@ -2,14 +2,14 @@
 
 ## Hazırlayan: Murat ASLAN
 
-### GENEL PROJE TANITIMI
+### **GENEL PROJE TANITIMI**
 
     Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
     ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
     bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
     ayrıntı sayfası bulunmaktadır.
 
-### UYGULAMA HAKKINDA YAZILIMSAL VE DONANIMSAL ÖZELLİKLER
+### **UYGULAMA HAKKINDA YAZILIMSAL VE DONANIMSAL ÖZELLİKLER**
 
 Flutter -   3.41.3<br>
 Dart    -   3.11.1<br>
@@ -21,7 +21,7 @@ Provider   -   ^6.1.5+1 |<br>
 Kullanılan cihaz özellikleri<br>
 1080x2400 pixel, android 16, api 36, x86_64
 
-### UYGULAMA ÇALIŞMA MANTIĞI
+### **UYGULAMA ÇALIŞMA MANTIĞI**
 
     Uygulama çalışması sırasında bizi ilk olarak bir appbar bir arama kutusu ve
     ürünlerin bulunduğu bir gridview yapısı karşılamaktadır. Arama kutusu ile
@@ -41,3 +41,5 @@ Kullanılan cihaz özellikleri<br>
     ilgili ürünün bulunduğu kutucuğu sağdan sola çekmemiz yeterlidir. Son olarak
     sayfanın en aşağısında bulunan "sipariş ver" butonu ile sepetteki ürünlerin
     siparişini verip sepeti boşaltırız.
+
+### **UYGULAMA İLE İLGİLİ EKRAN GÖRÜNTÜLERİ**
