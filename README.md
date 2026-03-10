@@ -2,10 +2,10 @@
 
 ## Hazırlayan: Murat ASLAN
 
-    Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
-    ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
-    bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
-    ayrıntı sayfası bulunmaktadır.
+Bu projede basit bir alışveriş uygulaması hedeflenmiştir.Proje içerisinde
+ürünlerin gridview yapısında bulunduğu anasayfa, ürünlerin tekil olarak
+bulunduğu bir ürün ayrıntı sayfası ve sepet bilgisinin bulunduğu bir sepet
+ayrıntı sayfası bulunmaktadır.
 
 ### Uygulama hakkında yazılımsal ve donanımsal özellikler
 
@@ -16,7 +16,7 @@ Dart    -   3.11.1<br>
 Http   -   ^1.6.0<br>
 Provider   -   ^6.1.5+1 |<br>
     
-    Kullanılan cihaz özellikleri: 1080x2400 pixel, android 16, api 36, x86_64
+Kullanılan cihaz özellikleri: 1080x2400 pixel, android 16, api 36, x86_64
 
 <h3>Uygulama çalışma mantığı</h3>
 
