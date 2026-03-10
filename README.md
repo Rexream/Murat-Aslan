@@ -7,15 +7,15 @@
     ürünlerin tekil olarak bulunduğu bir ürün ayrıntı sayfası ve
     sepet bilgisinin bulunduğu bir sepet ayrıntı sayfası bulunmaktadır.
 
-<h3>Uygulama hakkında yazılımsal ve donanımsal özellikler</h3>
+### Uygulama hakkında yazılımsal ve donanımsal özellikler
 
-| Yazılım | Sürüm |
-| FLUTTER | 3.41.3 |
-| DART | 3.11.1 |
-
-| Paketler | Sürüm |
-| HTTP | ^1.6.0 |
-|PROVIDER | ^6.1.5+1 |
+| Yazılım | Sürüm |<br>
+| FLUTTER | 3.41.3 |<br>
+| DART | 3.11.1 |<br>
+<br>
+| Paketler | Sürüm |<br>
+| HTTP | ^1.6.0 |<br>
+|PROVIDER | ^6.1.5+1 |<br>
     
     Kullanılan cihaz özellikleri: 1080x2400 pixel, android 16, api 36, x86_64
 
